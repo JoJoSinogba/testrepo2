@@ -19,6 +19,21 @@ class FirstFragment : Fragment() {
     // onDestroyView.
     private val binding get() = _binding!!
 
+    /**
+     *
+     * dsaifdjsaofjadsiofjdalafsj
+     * sd
+     * afkdsa
+     * fsda
+     * fsafasd
+     * f
+     * dsa
+     * fa
+     * sd
+     * fads
+     * f
+     * asdf
+     */
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
