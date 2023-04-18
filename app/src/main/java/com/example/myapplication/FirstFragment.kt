@@ -23,13 +23,6 @@ class FirstFragment : Fragment() {
      *
      * dsaifdjsaofjadsiofjdalafsj
      * sd
-     * afkdsa
-     * fsda
-     * fsafasd
-     * f
-     * dsa
-     * fa
-     * sd
      * fads
      * f
      * asdf
